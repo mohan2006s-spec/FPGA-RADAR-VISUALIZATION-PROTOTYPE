@@ -1,21 +1,20 @@
-FPGA-Based Radar Visualization Prototype
+🚀 FPGA-Based Radar Visualization Prototype
 
-Guided By: Dr. Arun Kumar, AP/ECE
+We are excited to share our team project, FPGA-Based Radar Visualization Prototype, implemented using FPGA and VGA display technology.
 
-Institution: University College of Engineering Kanchipuram
+🎯 Project Highlights:
+🔹 Generates a rotating radar scanning line.
+🔹 Displays multiple simulated targets at different locations.
+🔹 Uses FPGA hardware logic for real-time visual scan generation.
+🔹 Demonstrates radar visualization through a VGA monitor.
 
-Team Members
+💡 This project helped us gain practical knowledge of FPGA design, digital logic implementation, Verilog HDL, and VGA graphics generation.
 
-1. SNEKA.V – 513424106005
-2. PAVITHRA.G – 513424106044
-3. MOHAN.S – 513414106038
+👩‍💻 Team Members:
+🔹 Sneka V
+🔹 Pavithra G
+🔹 Mohan S
 
-Technologies
+Grateful for this hands-on learning experience and excited to explore more innovative hardware projects! 💚
 
-- Verilog HDL
-- Intel Quartus Prime
-- FPGA and VGA Display
-
-Description
-
-An FPGA-based radar display that generates a rotating scanning line and displays simulated targets on a VGA monitor.
+#FPGA #VerilogHDL #VGA #RadarVisualization #DigitalDesign #HardwareDesign #ECE #MiniProject #Teamwork #EngineeringStudents
